@@ -1,0 +1,84 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap') ;
+
+
+* {
+    margin: 0;
+    padding: 0;
+
+
+
+}
+.cunu__cont{
+width: 615;
+
+
+}
+    .iml{
+    width: 900px;
+    height: 900px; 
+    border-bottom: 50px solid;
+    border-right: 10px solid;
+    border-top: 10px solid;
+    border-left: 10px solid;
+    margin-left:10PX ;
+    padding: 10px;
+
+        }
+      
+    .cunu{
+        display: flex;
+        flex-flow: row nowrap;
+        box-sizing: border-box;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+            body {
+            height: 100vh;
+            background-color: black;
+            box-sizing: border-box;
+            width: 100%;
+            padding: 100px 500px 90px 300px;
+            font-size: xx-large;
+            color: rgb(238, 241, 208);
+            font-weight: 500;
+    }
+        .cunu2 {
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-content: center;
+        gap: 10px;
+        padding-left: 200px;
+        }
+        .cunu34
+        {
+        width: 280px;
+        color: rgb(106, 137, 124);
+        font-size: 34px;
+        text-decoration: none;
+        text-align: center;
+        padding: 21px 0;
+        font-weight: 600px;
+        border: 5px solid rgb(22, 148, 155);
+        border-radius: 20px;
+        font-family: arial;
+        }
+        .branco {
+        color: rgb(187, 228, 210);
+        font-weight: 800;
+        }
+        .gzus {
+        display: flex;
+        gap: 50px;
+        flex-direction: row;
+        }
+        .gzusson {
+        text-decoration: wavy;
+        color: rgb(245, 255, 235);
+        font-size: 60px;
+        }
+      
+
+        
